@@ -24,3 +24,5 @@ This is a CustomCompass plugin which is more of a navigational element than a co
 - Testing and Deployment: Test the plugin on the Variscite NXP iMX8M Nano board with a display to ensure robust performance and compatibility
 
 ![image](https://github.com/user-attachments/assets/c7641615-60bc-495b-a8af-cd5919178d5f)
+
+Medium article about Qt Plugin developed for this project: https://medium.com/@damjanovmail/tutorial-developing-qt-plugins-using-pyside-6-48175a9f9b9e
