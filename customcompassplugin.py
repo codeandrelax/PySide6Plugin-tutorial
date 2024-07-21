@@ -10,7 +10,14 @@ from PySide6.QtGui import QIcon
 
 DOM_XML = """
 <ui language='c++'>
-    <widget class='CustomCompass' name='customcompass'/>
+    <widget class='CustomCompass' name='customcompass'>
+    <property name='longitude'>
+            <string>"17.205532194807446"</string>
+        </property>
+        <property name='latitude'>
+            <string>"44.795059201407355"</string>
+        </property>
+    </widget>
 </ui>
 """
 
