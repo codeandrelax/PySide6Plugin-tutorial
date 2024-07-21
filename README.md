@@ -22,4 +22,5 @@ This is a CustomCompass plugin which is more of a navigational element than a co
 ![image](https://github.com/user-attachments/assets/11950092-3a11-45b9-b0c7-f5aaeb53f139)
 
 - Testing and Deployment: Test the plugin on the Variscite NXP iMX8M Nano board with a display to ensure robust performance and compatibility
+- 
 ![image](https://github.com/user-attachments/assets/c7641615-60bc-495b-a8af-cd5919178d5f)
